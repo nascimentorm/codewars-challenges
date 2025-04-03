@@ -1,4 +1,3 @@
-Codewars Challenges
 Aqui estão minhas soluções para os desafios do Codewars, organizadas por dificuldade. Este repositório também serve como prática para versionamento de código com Git e GitHub.
 
 📁 Estrutura do Repositório
