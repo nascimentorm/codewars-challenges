@@ -14,7 +14,9 @@ codewars-challenges/
 │── 6kyu/
 │   ├── desafio_nome.py
 ...
-8kyu, 7kyu, 6kyu, ... → Pastas organizadas por nível de dificuldade do Codewars, sendo 8kyu o nível mais fácil e os números menores indicando desafios progressivamente mais difíceis.
+                                                                                                                                                              
+                                                                                                                                                                                          
+→ Pastas organizadas por nível de dificuldade do Codewars, sendo 8kyu o nível mais fácil e os números menores indicando desafios progressivamente mais difíceis.
 
 desafio_nome.py → Arquivos contendo o código-fonte das soluções.
 
